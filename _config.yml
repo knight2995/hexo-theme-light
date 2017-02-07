@@ -23,7 +23,6 @@ addthis:
   twitter: 
   google: 
   pinterest: 
-  disqus: true
 
 fancybox: true
 
@@ -38,6 +37,6 @@ facebook:
   comment_width: 840
   comment_colorscheme: light
 
-
+disqus_shortname: betterprogrammer
 
 favicon: favicon.ico
